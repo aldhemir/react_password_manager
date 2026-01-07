@@ -76,7 +76,7 @@ O sistema utiliza uma arquitetura separada, onde o **Frontend em React** consome
 1.  Certifique-se de ter o **PHP 8+** rodando.
 2.  Crie um banco de dados no seu MySQL.
 3.  Importe o script SQL fornecido no projeto para criar as tabelas necessárias.
-4.  Configure a conexão com o banco de dados nos arquivos PHP da API (geralmente em um arquivo de conexão ou `.env` do backend, se houver).
+4.  Configure a conexão com o banco de dados nos arquivos PHP da API.
 
 ### 2. Configuração do Frontend (React)
 
