@@ -123,4 +123,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou novas
 
 <p align="center">
   Desenvolvido por <a href="https://github.com/aldhemir">Aldhemir</a>
-</p># react_password_manager
+</p>
